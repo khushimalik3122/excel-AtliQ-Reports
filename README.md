@@ -57,7 +57,7 @@ This project allowed me to apply technical expertise while fostering continuous 
 **Explore the individual reports here:**
 1. [Customer Performance Report](https://drive.google.com/file/d/1N_GqI0yIhl4ntDwCwq5MPgBXToU9FYNu/view?usp=sharing)
 2. [Market Performance and Sales Targets Comparison Report](https://drive.google.com/file/d/1Aonez1YYBECjo3CPh8cNbUKodGxFUP3B/view?usp=sharing)
-3. [Profit and Loss (P&L) Reports by Fiscal Year and Months]()
+3. [Profit and Loss (P&L) Reports by Fiscal Year and Months](https://drive.google.com/file/d/1lKUdtHbnxBYJ0zvZOTjD6FIRcOLfTait/view?usp=sharing)
 4. [Profit and Loss (P&L) Reports by Markets](https://drive.google.com/file/d/1bUqW_VYi0DPfCqkAEsgGwmEutFso6aKQ/view?usp=sharing)
 
 ---
