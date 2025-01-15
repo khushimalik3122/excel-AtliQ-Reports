@@ -53,7 +53,7 @@ This project allowed me to apply technical expertise while fostering continuous 
 
 ## Report Folder Link
 (https://drive.google.com/drive/folders/1vkxe_PZlTqPXUewvR2bn0Zg153y8AdU7?usp=sharing)
-Explore the individual reports here:
+**Explore the individual reports here:**
 1. [Customer Performance Report](https://drive.google.com/file/d/1N_GqI0yIhl4ntDwCwq5MPgBXToU9FYNu/view?usp=sharing)
 2. [Market Performance and Sales Targets Comparison Report](https://drive.google.com/file/d/1Aonez1YYBECjo3CPh8cNbUKodGxFUP3B/view?usp=sharing)
 3. [Profit and Loss (P&L) Reports by Fiscal Year and Months]()
